@@ -1,0 +1,28 @@
+1. https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+
+    > https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website 
+
+
+   install dependencies:
+     > cd express-locallibrary-tutorial && npm install
+
+   run the app:
+     > SET DEBUG=express-locallibrary-tutorial:* & npm start
+
+     > for nodemon : SET DEBUG=express-locallibrary-tutorial:* & npm run devstart
+
+
+2. Defining and creating models 
+
+    * Defining schemas
+    * Creating a model - Models are created from schemas using the mongoose.model() method:
+      Once you've defined your model classes you can use them to create, update, or delete records, and to run queries to get all records or particular subsets of records. 
+
+3. mLab connection url - "mongodb://rohitwaghela:roh92wag357@ds147510.mlab.com:47510/local_library"
+
+
+
+
+===============================================================
+
+status -- Genre detail page -- in progress
