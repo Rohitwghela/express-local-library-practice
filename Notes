@@ -18,7 +18,7 @@
     * Creating a model - Models are created from schemas using the mongoose.model() method:
       Once you've defined your model classes you can use them to create, update, or delete records, and to run queries to get all records or particular subsets of records. 
 
-3. mLab connection url - "mongodb://rohitwaghela:roh92wag357@ds147510.mlab.com:47510/local_library"
+3. mLab connection url - "mongodb://rohitwaghela:*****@ds147510.mlab.com:47510/local_library"
 
 
 
